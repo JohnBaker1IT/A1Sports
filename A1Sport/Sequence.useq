@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.4" icons="true" automaticImage="PNG" generate-combined-fragments="true">  
+  <object id="1" language="java" name="com.test.servlets.ViewProfileServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/ViewProfileServlet.java" binary="false" label="viewProfileServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="com.test.servlets.SearchServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/SearchServlet.java" binary="false" label="searchServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="com.test.servlets.Test" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/Test.java" binary="false" label="test" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="4" language="java" name="com.test.servlets.RegisterServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/RegisterServlet.java" binary="false" label="registerServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="5" language="java" name="com.test.servlets.RedirectServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/RedirectServlet.java" binary="false" label="redirectServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="6" language="java" name="com.test.servlets.ProductsServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/ProductsServlet.java" binary="false" label="productsServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="7" language="java" name="com.test.servlets.OrderHistory" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/OrderHistory.java" binary="false" label="orderHistory" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="8" language="java" name="com.test.servlets.LogoutServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/LogoutServlet.java" binary="false" label="logoutServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="9" language="java" name="com.test.servlets.LoginServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/LoginServlet.java" binary="false" label="loginServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>  
+  <object id="10" language="java" name="com.test.servlets.HomeServlet" project="A1Sport" 
+    file="/A1Sport/src/com/test/servlets/HomeServlet.java" binary="false" label="homeServlet" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="187" y="0"/>  
+  </object>
+</sequence-diagram>
