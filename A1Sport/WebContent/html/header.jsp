@@ -39,12 +39,12 @@
 			<!-- container nav-elements -->
 		</nav>
 		<!-- <div class="container tagline">
-    <h1 class="headline">Our Mission</h1>
-    <p>
-    <!-- Doc Point 37. This file is used to make an include file to be a header pattern for all pages of the 
+		<!-- Doc Point 37. This file is used to make an include file to be a header pattern for all pages of the 
 website. -->
-    We support and encourage active and healthy lifestyles, by offering high performance products for the result-driven athlete.</p>
-  </div>container tagline -->
+  <div class="container tagline">
+    <h1 class="headline">Our Mission</h1>
+    <p>We support and encourage active and healthy lifestyles, by offering high performance products for the result-driven athlete.<br></p>
+  </div><!-- container tagline -->
 	</header>
 </body>
 </html>

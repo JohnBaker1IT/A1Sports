@@ -21,8 +21,7 @@ public class HomeServlet extends HttpServlet {
         super();
     }
 
-	/* DocPoint 0. MVC (Model View controller architecture)  hplus 
-	 
+	/* DocPoint 0. MVC (Model View controller architecture) <br><br>	 
 	  Model (Data Model Java Classes) (FBX 3d model)
 	    Model defines the business layer of the application
 		This is the data layer which contains business 

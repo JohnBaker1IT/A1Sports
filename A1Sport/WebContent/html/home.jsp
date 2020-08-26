@@ -38,7 +38,7 @@
 		<!-- <div class="container tagline">
     <h1 class="headline">Our Mission</h1>
    <p>We support and encourage active and healthy lifestyles, by offering high performance products for the result-driven athlete.</p>
-  </div>container tagline -->
+  </div><!-- container tagline -->
 	</header>
 
 	<fmt:setBundle basename="com.test.resources.applicationResources"
