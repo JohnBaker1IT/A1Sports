@@ -1,5 +1,4 @@
-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
-
+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
 
 Eclipse IDE Steps
 Request token by following [Github official instructions][1].
@@ -13,3 +12,7 @@ Access "Git Repositories" tab, if using java perspective it will be at bottom.
 Right click on Git project head tree. Select commit changes
 Username will be your github username
 Password will be your github token (that you just created)
+
+Teams
+Add to index
+Commit
