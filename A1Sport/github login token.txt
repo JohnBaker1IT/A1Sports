@@ -1,0 +1,15 @@
+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
+
+
+Eclipse IDE Steps
+Request token by following [Github official instructions][1].
+Tick the repo box, it will say something like "Full control of private repositories"
+Set the time to either 30 days or more. Whatever makes you confortable
+Copy the token, it will not be shown again.
+Save the token to a text file in your computer.
+Go to Eclipse IDE
+Make changes to your files/code
+Access "Git Repositories" tab, if using java perspective it will be at bottom.
+Right click on Git project head tree. Select commit changes
+Username will be your github username
+Password will be your github token (that you just created)
