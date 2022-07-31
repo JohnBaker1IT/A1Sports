@@ -1,4 +1,4 @@
-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
+don't put the token in the repository
 
 Eclipse IDE Steps
 Request token by following [Github official instructions][1].
